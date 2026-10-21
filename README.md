@@ -1,2 +1,3 @@
-# bip--np-email-notifications-a473e849
-Created by Blitzy
+# Welcome to Blitzy
+
+Requires Node.js. Run: `node index.js`
